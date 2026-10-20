@@ -1,0 +1,24 @@
+#BlueJ class context
+#Tue Oct 20 15:00:42 ART 2026
+comment0.target=Mascota
+comment1.params=identificador nombre especie raza fechaNacimiento cliente
+comment1.target=Mascota(int, java.lang.String, java.lang.String, java.lang.String, java.time.LocalDate, Cliente)
+comment10.params=especie
+comment10.target=void setEspecie(java.lang.String)
+comment11.params=raza
+comment11.target=void setRaza(java.lang.String)
+comment12.params=fechaNacimiento
+comment12.target=void setFechaNacimiento(java.time.LocalDate)
+comment13.params=cliente
+comment13.target=void setCliente(Cliente)
+comment2.target=int getIdentificador()
+comment3.target=java.lang.String getNombre()
+comment4.target=java.lang.String getEspecie()
+comment5.target=java.lang.String getRaza()
+comment6.target=java.time.LocalDate getFechaNacimiento()
+comment7.target=Cliente getCliente()
+comment8.params=identificador
+comment8.target=void setIdentificador(int)
+comment9.params=nombre
+comment9.target=void setNombre(java.lang.String)
+numComments=14

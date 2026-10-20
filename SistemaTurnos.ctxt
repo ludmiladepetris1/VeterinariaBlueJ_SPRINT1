@@ -1,0 +1,23 @@
+#BlueJ class context
+#Tue Oct 20 15:00:42 ART 2026
+comment0.target=SistemaTurnos
+comment1.target=SistemaTurnos()
+comment10.target=java.util.ArrayList getClientes()
+comment11.target=java.util.ArrayList getMascotas()
+comment12.target=java.util.ArrayList getVeterinarios()
+comment2.params=cliente
+comment2.target=void registrarCliente(Cliente)
+comment3.params=mascota
+comment3.target=void registrarMascota(Mascota)
+comment4.params=veterinario
+comment4.target=void registrarVeterinario(Veterinario)
+comment5.params=fecha hora mascota veterinario cliente
+comment5.target=boolean registrarTurno(java.time.LocalDate, java.lang.String, Mascota, Veterinario, Cliente)
+comment6.params=veterinario fecha hora turnoAExcluir
+comment6.target=boolean hayDisponibilidad(Veterinario, java.time.LocalDate, java.lang.String, Turno)
+comment7.params=turno
+comment7.target=void cancelarTurno(Turno)
+comment8.params=turno nuevaFecha nuevaHora
+comment8.target=boolean modificarTurno(Turno, java.time.LocalDate, java.lang.String)
+comment9.target=java.util.ArrayList consultarTurnos()
+numComments=13

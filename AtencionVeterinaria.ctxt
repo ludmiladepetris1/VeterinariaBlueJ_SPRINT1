@@ -1,0 +1,17 @@
+#BlueJ class context
+#Tue Oct 20 15:00:42 ART 2026
+comment0.target=AtencionVeterinaria
+comment1.target=java.time.LocalDate getFecha()
+comment2.target=java.lang.String getMotivoConsulta()
+comment3.target=java.lang.String getDiagnostico()
+comment4.target=java.lang.String getTratamiento()
+comment5.target=Mascota getMascota()
+comment6.params=fecha
+comment6.target=void setFecha(java.time.LocalDate)
+comment7.params=motivoConsulta
+comment7.target=void setMotivoConsulta(java.lang.String)
+comment8.params=diagnostico
+comment8.target=void setDiagnostico(java.lang.String)
+comment9.params=tratamiento
+comment9.target=void setTratamiento(java.lang.String)
+numComments=10

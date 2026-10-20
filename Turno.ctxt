@@ -1,0 +1,22 @@
+#BlueJ class context
+#Tue Oct 20 15:00:42 ART 2026
+comment0.target=Turno
+comment1.target=void cancelar()
+comment10.params=mascota
+comment10.target=void setMascota(Mascota)
+comment11.params=cliente
+comment11.target=void setCliente(Cliente)
+comment12.params=atencion
+comment12.target=void setAtencion(AtencionVeterinaria)
+comment2.params=nuevaFecha nuevaHora
+comment2.target=void modificarFechaHora(java.time.LocalDate, java.lang.String)
+comment3.target=java.time.LocalDate getFecha()
+comment4.target=java.lang.String getHora()
+comment5.target=Mascota getMascota()
+comment6.target=Cliente getCliente()
+comment7.target=AtencionVeterinaria getAtencion()
+comment8.params=fecha
+comment8.target=void setFecha(java.time.LocalDate)
+comment9.params=hora
+comment9.target=void setHora(java.lang.String)
+numComments=13

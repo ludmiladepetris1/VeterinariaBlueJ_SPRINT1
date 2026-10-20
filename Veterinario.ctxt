@@ -1,0 +1,22 @@
+#BlueJ class context
+#Tue Oct 20 15:00:42 ART 2026
+comment0.target=Veterinario
+comment1.params=nombre apellido matricula especialidad
+comment1.target=Veterinario(java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+comment10.params=matricula
+comment10.target=void setMatricula(java.lang.String)
+comment11.params=especialidad
+comment11.target=void setEspecialidad(java.lang.String)
+comment2.params=turnos
+comment2.target=java.util.ArrayList consultarTurnos(java.util.ArrayList)
+comment3.params=turno motivo diagnostico tratamiento
+comment3.target=AtencionVeterinaria realizarAtencion(Turno, java.lang.String, java.lang.String, java.lang.String)
+comment4.target=java.lang.String getNombre()
+comment5.target=java.lang.String getApellido()
+comment6.target=java.lang.String getMatricula()
+comment7.target=java.lang.String getEspecialidad()
+comment8.params=nombre
+comment8.target=void setNombre(java.lang.String)
+comment9.params=apellido
+comment9.target=void setApellido(java.lang.String)
+numComments=12
